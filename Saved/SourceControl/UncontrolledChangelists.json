@@ -1,0 +1,39 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/ALS_N_LandRoll_F.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/MovementState.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/ALS_N_LandRoll_F_Montage.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Input/Actions/IA_Roll.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/MM_Idle.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/BS_MF_Unarmed_WalkRun1.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/MF_Run_Fwd.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/MF_Walk_Fwd.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequin_UE4/Animations/MM_Walk_InPlace.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/5/KZ/VAC2O7BFVJY5672J0G05AO.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequins/Animations/Manny/BS_MM_WalkRun.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/Characters/Mannequins/Animations/Quinn/BS_MF_Unarmed_WalkRun1.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/UI_ChatMessage.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/UI_Chat.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/UI_ChatBox.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/UI_ChatOnScreen.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/Hud.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Input/Actions/IA_Chat.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/PlayerController.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/GameState.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/MyGameState.uasset",
+				"C:/Users/CIFROVIK/Documents/Unreal Projects/TestTask/Content/ThirdPerson/Blueprints/MyGameStateBase.uasset"
+			]
+		}
+	]
+}
